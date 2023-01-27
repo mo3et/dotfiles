@@ -31,7 +31,7 @@
 - https://github.com/zsh-users
 - https://github.com/starship/starship
 - https://github.com/Eugeny/tabby
-- https://github.com/alacritty/alacritty
+- https://github.com/alacritty/alacritty !!!
 - https://github.com/warpdotdev/Warp
 
 
