@@ -36,7 +36,7 @@
 
 
 
-# Dotfiles
+## Dotfiles
 - https://github.com/webpro/awesome-dotfiles
 - https://driesvints.com/blog/getting-started-with-dotfiles
 - https://www.abdullah.today/encrypted-dotfiles/
@@ -48,7 +48,7 @@
 - https://github.com/alrra/dotfiles
 - 
 
-# Command Line
+## Command Line
 - https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
 - https://git.herrbischoff.com/awesome-macos-command-line/about/
 - 
@@ -57,11 +57,18 @@
 - 
 
 
+## Recommand Read
+- https://github.com/pseudoyu/yu-tools
+- [Terminal Setting article by pseudoyu](https://sspai.com/post/74216)
+- Yabai https://sspai.com/post/73620
+- https://sspai.com/post/77485
+- 
+- 
 
 ## Other Link
 - https://www.libhunt.com/topic/macos
 - [Terminal Setting article by pseudoyu](https://sspai.com/post/74216)
-- 
+- https://www.pseudoyu.com/zh/2022/07/10/my_config_and_beautify_solution_of_macos_terminal/
 - 
 - 
 - 
