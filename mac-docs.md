@@ -1,5 +1,9 @@
 # Mac
 
+## useful Command
+
+> xattr -d com.apple.rootless <application_locations> //取消文件或文件夹的SIP保护状态
+
 ## brew
 
 ### Need to install
