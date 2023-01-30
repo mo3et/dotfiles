@@ -1,11 +1,11 @@
 # Mac
 
-## useful Command
-
-> xattr -d com.apple.rootless <application_locations> //取消文件或文件夹的SIP保护状态
-
 ## Tips
 - Mac 更改某个拓展名的打开方式，不是 option+submenu，那样只能修改指定文件，**要在 Info 里面的 Open With 设置 为 Change All**.
+
+## useful Command
+> xattr -d com.apple.rootless <application_locations> //取消文件或文件夹的SIP保护状态
+
 
 ## brew
 
