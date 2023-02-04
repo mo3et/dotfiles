@@ -4,6 +4,8 @@
 
 - Mac 更改某个拓展名的打开方式，不是 option+submenu，那样只能修改指定文件，**要在 Info 里面的 Open With 设置 为 Change All**.
 
+- iTerms 解决 option + key 无法使用: Use Profiles -> Keys -> Presets to **Natural Text editing**. 然后 remove 原先的设置，不要保留。
+
 ## useful Command
 
 Installation
