@@ -6,6 +6,54 @@
 
 - iTerms 解决 option + key 无法使用: Use Profiles -> Keys -> Presets to **Natural Text editing**. 然后 remove 原先的设置，不要保留。
 
+- Oh My ZSH Plugins Clones: `git clone https://github.com/<author_name>/<repo_name>.git $ZSH_CUSTOM/plugins/<repo_name>`
+
+## Shell
+
+```
+# Disable the "Are your sure you want to open this application?" dialog
+defaults write com.apple.LaunchServices LSQuarantine -bool false
+
+# Disable the crash reporter
+defaults write com.apple.CrashReporter DialogType -string "none"
+
+######################################################
+# Keyboard & Input				     #
+######################################################
+
+# Enable full keyboard access for all controls
+# (e.g. enable Tab in modal dialogs)
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
+
+# Turn off keyboard illumination when computer is not used for 5 minutes
+defaults write com.apple.BezelServices kDimTime -int 300
+
+
+###############################################################################
+# Finder                                                                      #
+###############################################################################
+
+# Avoid creating .DS_Store files on network or USB volumes
+defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
+defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
+
+# Expand the following File Info panes:
+# "General","Open With", and "Sharing & Permissions"
+defaults write com.apple.finder FXInfoPanesExpanded -dict General -bool true OpenWith -bool true Privileges -bool true
+
+###############################################################################
+# Dock                                                                        #
+###############################################################################
+
+# Automatically hide and show the Dock
+defaults write com.apple.dock autohide -bool true
+
+# Make Dock icons of hidden applications translucent
+defaults write com.apple.dock showhidden -bool true
+
+
+```
+
 ## useful Command
 
 Installation
