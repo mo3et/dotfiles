@@ -1,8 +1,15 @@
 # Dotfiles
 personal development settings
 
-Using to Ubuntu Windows  WSL
+Using to Ubuntu Windows  WSL and MacOS
 
+# Folder Policy
+All code projects are managed in `~/dev`(or `~/monet_repo`), common folders:
+```
+~/dev/<project_name>
+~/dev/wild # code for temporary use
+~/dev/
+```
 
 ## ZSH
 
