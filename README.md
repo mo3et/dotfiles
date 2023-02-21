@@ -3,7 +3,7 @@ personal development settings
 
 Using to Ubuntu Windows  WSL and MacOS
 
-# Folder Policy
+# Folder Policy !!
 All code projects are managed in `~/dev`(or `~/monet_repo`), common folders:
 ```
 ~/dev/<project_name>
@@ -23,3 +23,9 @@ All code projects are managed in `~/dev`(or `~/monet_repo`), common folders:
 [DotFIles for Ou changkun](https://github.com/changkun/dotfiles)
 
 [Holman Does Dotfiles](https://github.com/holman/dotfiles)
+
+[driesvints dotfiles - Mac](https://github.com/driesvints/dotfiles)
+
+[fioncat dotfiles - Mac & Arch](https://github.com/fioncat/dotfiles)
+
+[alrra dotfiles somes for mac & ubuntu](https://github.com/alrra/dotfiles/)

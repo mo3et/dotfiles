@@ -7,7 +7,9 @@
 - iTerms 解决 option + key 无法使用: Use Profiles -> Keys -> Presets to **Natural Text editing**. 然后 remove 原先的设置，不要保留。
 
 - Oh My ZSH Plugins Clones: `git clone https://github.com/<author_name>/<repo_name>.git $ZSH_CUSTOM/plugins/<repo_name>`
-
+**Spotlight On/Off**
+`sudo mdutil -a -i off`
+`sudo mdutil -a -i on`
 ## Shell
 
 ```
